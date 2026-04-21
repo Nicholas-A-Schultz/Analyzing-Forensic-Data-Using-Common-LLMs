@@ -1,0 +1,13 @@
+Date and Time,Search Entry,Suspicion Report
+2026-03-01 08:29,bypass paywall news article legally,"Attempting to bypass paywalls can indicate intent to circumvent digital restrictions, even if framed as legal."
+2026-03-01 09:35,bypass region restrictions streaming,"Suggests intent to evade geographic licensing controls, commonly associated with VPN/proxy use."
+2026-03-02 10:16,bypass annoying ads youtube,"Indicates desire to circumvent platform monetization systems, potentially via ad blockers or unauthorized tools."
+2026-03-02 10:49,bypass login popups websites,Could indicate attempts to access gated content without authentication.
+2026-03-02 11:21,bypass captchas accessibility tools,"CAPTCHA bypassing can be legitimate (accessibility), but also associated with automation or bot activity."
+2026-03-03 14:15,bypass autoplay videos browser,"Mildly suspicious wording, though typically just user-experience optimization."
+2026-03-03 14:47,bypass browser notifications chrome,"Likely harmless, but still framed as bypassing built-in controls."
+2026-03-03 15:19,bypass popup blockers websites,"Suggests overriding browser protections, which could be used for intrusive or malicious content."
+2026-03-04 16:17,bypass autoplay ads chrome,"Similar to ad-blocking behavior, potentially against platform rules."
+2026-03-04 16:50,bypass website cookie popups,"Generally harmless UX improvement, but still technically bypassing compliance mechanisms."
+2026-03-04 17:21,bypass login walls websites,Stronger signal of attempting to access restricted content without proper credentials.
+2026-03-04 17:55,bypass annoying browser redirects,"Could relate to avoiding malicious redirects, but also overlaps with bypassing site controls."
