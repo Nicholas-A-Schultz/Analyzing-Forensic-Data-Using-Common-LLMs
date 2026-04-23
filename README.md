@@ -49,6 +49,10 @@ The repository includes two main dataset styles:
 2. **Mixed browser-history datasets**
    - five realistic browser history files containing a controlled mix of innocent, red-herring, and criminal searches
 
+### Prompt
+
+Please create a table (Date and Time | Search Entry | Suspicion Report) for the provided search history and record and print any suspicious search entries you find and provide a brief report for each individual entry recorded as to why that particular search entry is suspicious. If the searches are normal, ignore them.
+
 ## What Is in This Repository
 
 ### Browser Sets/
